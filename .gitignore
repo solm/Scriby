@@ -1,0 +1,4 @@
+*.xml
+modules/dump.rb
+*.pid
+sqlite

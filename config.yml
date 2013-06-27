@@ -1,0 +1,10 @@
+nick: LittleJohn
+server: irc.esper.net
+server_pass:
+port: 6667
+real_name: Scribydoo An IRC Bot by Solm
+ident_pass: centari22
+channels:
+   - udl
+   - 'udl-cmd'
+   - Iseori
